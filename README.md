@@ -1,4 +1,3 @@
-HERE
 # 🔎 BBB Business Scraper — Demo (PyQt5 + SeleniumBase + BeautifulSoup)
 
 <p align="center">
@@ -157,4 +156,3 @@ Made as a scraping & GUI demo. If you want me to:
 tell me which one and I’ll draft it.
 
 ---
-END
