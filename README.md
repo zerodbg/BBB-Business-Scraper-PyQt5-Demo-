@@ -147,12 +147,6 @@ This repo is a demo — feel free to fork and send PRs. If you improve parsing r
 
 ---
 
-## 📝 License
-
-MIT — see `LICENSE` (add a LICENSE file if you publish this repo).
-
----
-
 ## Contact / Credits
 
 Made as a scraping & GUI demo. If you want me to:
