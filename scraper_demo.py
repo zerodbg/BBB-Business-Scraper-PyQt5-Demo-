@@ -240,7 +240,7 @@ class AppDemo(QWidget):
             }
         """)
 
-        self.SCRAPEDO_API_KEY = "c0037e193db14a65b20b4028538b8e1cc49c18d6557"
+        self.SCRAPEDO_API_KEY = "token"
 
         # Worker thread
         self.worker = None
