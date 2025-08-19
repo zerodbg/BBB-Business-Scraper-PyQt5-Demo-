@@ -35,8 +35,7 @@ HERE
 ├── UI/
 │   └── app.ui               # Qt Designer UI file used by PyQt5 (expected)
 ├── assets/
-│   └── background.png       # optional background used by UI
-├── people.csv               # example output (generated)
+│   └── Ui.png       # optional background used by UI
 └── README.md                # this file
 ```
 
