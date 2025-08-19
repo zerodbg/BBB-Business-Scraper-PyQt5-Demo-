@@ -58,7 +58,7 @@ pip install PyQt5 seleniumbase beautifulsoup4 requests pandas lxml
 1. Clone the repo and open the folder:
 
 ```bash
-git clone https://github.com/yourusername/bbb-scraper-demo.git
+git clone https://github.com/zerodbg/BBB-Business-Scraper-PyQt5-Demo-.git
 cd bbb-scraper-demo
 ```
 
